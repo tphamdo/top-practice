@@ -1,0 +1,15 @@
+.outer {
+  background-color: blue;
+  height: 300px;
+}
+
+.inner {
+  background-color: red;
+  margin: 100px;
+}
+
+#track {
+  background-color: goldenrod;
+  height: 200px;
+  width: 400px;
+}
